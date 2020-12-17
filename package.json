@@ -1,0 +1,14 @@
+{
+  "name": "zeus-bot",
+  "version": "1.0.0",
+  "description": "Connect LinkedIn DMs to Discord DMs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
